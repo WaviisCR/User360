@@ -1,0 +1,14 @@
+/*contact*/
+/*body-bckg*/
+body{
+    background-image: url(../image/large.jpg);
+    background-size: cover;
+}
+/*form-box*/
+.form-box{
+    padding: 1% 3%;
+    border: solid 0.5px silver;
+    margin-top: 9%;
+    margin-bottom: 9%;
+    background-color: white;
+}
