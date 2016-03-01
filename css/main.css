@@ -80,10 +80,50 @@ nav ul {
 .try-button:hover {
     background-color: #4E7EB8;
 }
-
-
-
 /*Header*/
-/*
+
+/*Nuestros Servicios*/
+.our-services {
+    border-bottom: 1px solid #ECECEC;
+}
+.our-services h1 {
+    text-align: center;
+    color: #649CEA;
+    font-weight: 100;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+.service-icon {
+    border-radius: 100%;
+    width: 45%;
+    height: 157px;
+    margin-left: 27%;
+    text-align: center;
+    padding-top: 16%;
+    box-shadow: -2px 3px 8px #ECECEC;
+}
+.service-icon span {
+    color: #649CEA;
+    font-size: 45px;
+}
+.service-box h2 {
+    text-align: center;
+    color: #486682;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-top: 10%;
+}
+.service-box p {
+    text-align: center;
+    margin-top: 6%;
+    font-size: 17px;
+    margin-bottom: 30%;
+}
+.separador {
+    position: relative;
+    top: 48px;
+    left: 46%;
+}
+/*Nuestros Servicios*/
 
 /*REINA*/
